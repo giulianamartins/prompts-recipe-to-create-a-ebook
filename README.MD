@@ -20,6 +20,7 @@ ChatGPT：
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 | conteúdo | Preciso que me ajude a criar um roteiro, para escrever um e-book de 5 páginas, sobre IA Generativa para uma criança de 10 anos. Deve conter resumo, definição, exemplos, características, diferença de outros tipos de IA e exemplo de ferramentas de IA Generativa e o que elas fazem |
+
 |  imagens  | Você pode criar uma imagem infantil com o exemplo que me deu? "Um robô desenhando algo único, como um unicórnio que mistura traços de diferentes animais".
 Gostaria de mais duas imagens que represente a IA Generativa e o ChatGPT para crianças|
 
